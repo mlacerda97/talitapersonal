@@ -39,6 +39,11 @@ header {
     font-weight: bold;
 }
 
+.logo a img {
+    width: 150px;
+    margin-top: 12px;
+}
+
 .menu {
     display: flex;
 }

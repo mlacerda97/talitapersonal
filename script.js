@@ -32,11 +32,11 @@ function scroll() {
         document.querySelector('header').style.top = '-20px'
         document.querySelector('header').style.backgroundColor = 'black'
         document.querySelector('.header').style.paddingTop = '25px'
-        document.querySelector('nav ul').style.top = '48px'
+        document.querySelector('nav ul').style.top = '0px'
     } else {
         document.querySelector('header').style.top = '-10px'
         document.querySelector('header').style.backgroundColor = 'transparent'
-        document.querySelector('nav ul').style.top = '78px'
+        document.querySelector('nav ul').style.top = '0px'
     }
 }
 
